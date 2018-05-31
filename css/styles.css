@@ -1,0 +1,5 @@
+li[ui-sref]{
+    cursor: pointer; 
+    display: list-item;
+    padding-bottom: 10px;    
+}
